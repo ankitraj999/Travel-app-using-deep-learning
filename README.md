@@ -5,3 +5,4 @@ departure city, destination city, day of travelling and meal in text is any of t
 entity is missing in the text it ask of these entity from the user.
 2. Technologies used: Keras machine learning library, Python, Google speech to
 text API, Google Text to Speech API.
+3. Input: in Voice . Output: in Voice
